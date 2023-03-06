@@ -8,8 +8,8 @@ Survival Wei is a 2D game developed by Malek Mayeh using GameMaker Engine
 ![image](https://user-images.githubusercontent.com/31927278/220459220-7eebe86b-0e3d-4d5d-8701-a1418c9e6872.png)
 Usage:
 * In this project i Used GameMaker for the engine 
-GameMaker marketplace & itch.io for the sprites
-and for the sound effects i used the open source website https://www.myinstants.com/
+* GameMaker marketplace & itch.io for the sprites
+* and for the sound effects i used the open source website https://www.myinstants.com/
 
 Also this 2D game is similar to many games outhere that the concept behind it is running and jumping and surviving from the enemies
 
