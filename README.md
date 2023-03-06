@@ -14,8 +14,8 @@ Usage:
 Also this 2D game is similar to many games outhere that the concept behind it is running and jumping and surviving from the enemies
 
 
-technical detail:
-Dealing with shaders and a new game developer was hard at first then i figured out by reading the documentation and watches tuturiols of how the concept works also gives me an idea of how it should go
+Technical detail:
+- Dealing with shaders and a new game developer was hard at first then i figured out by reading the documentation and watches tuturiols of how the concept works also gives me an idea of how it should go
 
 
 [LinkedIn Profile ](https://www.linkedin.com/in/malek-mayeh-0b937122b/)
